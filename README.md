@@ -59,14 +59,14 @@ A strategic guide to planning, deploying, and scaling **AI in customer support**
 
 ## 🔗 Handpicked Twig.so Resources
 
-- **How to build reliable support AI**: https://twig.so/blog/how-can-i-build-a-reliable-ai-for-customer-support 
-- **Best AI support tools in 2025**: https://twig.so/blog/ai-customer-support-best-tools 
-- **Zendesk Advanced AI setup**: https://twig.so/blog/zendesk-advanced-ai 
-- **Scaling AI infrastructure**: https://twig.so/blog/ai-support-infrastructure-customer-service 
-- **Optimizing AI chatbots**: https://twig.so/blog/ai-chatbot-optimization-tools-metrics 
-- **Handling escalation intelligently**: https://twig.so/blog/ai-escalation-handling-support-cost-reduction 
-- **Specialized vs general AI support**: https://twig.so/blog/technical-support-and-customer-support-ai 
-- **E‑commerce support AI guide**: https://twig.so/blog/ai-powered-customer-support-ecommerce 
+- [How to build reliable support AI] (https://twig.so/blog/how-can-i-build-a-reliable-ai-for-customer-support) 
+- [Best AI support tools in 2025]: (https://twig.so/blog/ai-customer-support-best-tools)  
+- [Zendesk Advanced AI setup]: (https://twig.so/blog/zendesk-advanced-ai)  
+- [Scaling AI infrastructure]: (https://twig.so/blog/ai-support-infrastructure-customer-service)  
+- [Optimizing AI chatbots]: (https://twig.so/blog/ai-chatbot-optimization-tools-metrics)  
+- [Handling escalation intelligently]: (https://twig.so/blog/ai-escalation-handling-support-cost-reduction)  
+- [Specialized vs general AI support]: (https://twig.so/blog/technical-support-and-customer-support-ai)  
+- [E‑commerce support AI guide]: (https://twig.so/blog/ai-powered-customer-support-ecommerce)  
 
 
 
@@ -74,9 +74,9 @@ A strategic guide to planning, deploying, and scaling **AI in customer support**
 
 ## 🤝 Join Our Community
 
-* Read more at the [Twig Blog](https://twig.so/blog)&#x20;
+* Read more at the [Twig Blog](https://twig.so/blog);
 * Watch tutorials and guides: [Twig Videos](https://twig.so/videos)
-* Connect & discuss: [Twig Community forum](https://twig.so/contact)&#x20;
+* Connect & discuss: [Twig Community forum](https://twig.so/contact);
 
 ---
 
